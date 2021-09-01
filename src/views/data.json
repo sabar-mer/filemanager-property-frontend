@@ -1,0 +1,111 @@
+{
+    "id": 13,
+    "name": "file.zip",
+    "date": "2021-08-31T13:49:14.266+00:00",
+    "properties": [
+        {
+            "name": "commun.properties",
+            "type": "Commun",
+            "values": [],
+            "id": 46
+        },
+        {
+            "name": "spec2.properties",
+            "type": "spec",
+            "values": [
+                {
+                    "name": "root",
+                    "parametre": {
+                        "parametrekey": "password",
+                        "id": 47
+                    },
+                    "status": {
+                        "statusId": 35,
+                        "type": "normal",
+                        "id": 35
+                    }
+                },
+                {
+                    "name": "8080",
+                    "parametre": {
+                        "parametrekey": "port",
+                        "id": 48
+                    },
+                    "status": {
+                        "statusId": 36,
+                        "type": "oublie",
+                        "id": 36
+                    }
+                },
+                {
+                    "name": "meryem",
+                    "parametre": {
+                        "parametrekey": "name",
+                        "id": 49
+                    },
+                    "status": {
+                        "statusId": 35,
+                        "type": "normal",
+                        "id": 35
+                    }
+                },
+                {
+                    "name": "PHP",
+                    "parametre": {
+                        "parametrekey": "langue",
+                        "id": 50
+                    },
+                    "status": {
+                        "statusId": 34,
+                        "type": "differant",
+                        "id": 34
+                    }
+                }
+            ],
+            "id": 47
+        },
+        {
+            "name": "spec1.properties",
+            "type": "spec",
+            "values": [
+                {
+                    "name": "root",
+                    "parametre": {
+                        "parametrekey": "password",
+                        "id": 47
+                    },
+                    "status": {
+                        "statusId": 35,
+                        "type": "normal",
+                        "id": 35
+                    }
+                },
+                {
+                    "name": "meryem",
+                    "parametre": {
+                        "parametrekey": "name",
+                        "id": 49
+                    },
+                    "status": {
+                        "statusId": 35,
+                        "type": "normal",
+                        "id": 35
+                    }
+                },
+                {
+                    "name": "java",
+                    "parametre": {
+                        "parametrekey": "langue",
+                        "id": 50
+                    },
+                    "status": {
+                        "statusId": 34,
+                        "type": "differant",
+                        "id": 34
+                    }
+                }
+            ],
+            "id": 48
+        }
+    ]
+}
